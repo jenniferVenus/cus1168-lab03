@@ -32,7 +32,6 @@ public class Lexer {
         this.tokens = new ArrayList<>();
         this.position = 0;
 
-
     }
 
   
